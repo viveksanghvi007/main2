@@ -1,4 +1,4 @@
-export const BASE_URL = "http://localhost:4001";
+export const BASE_URL = "https://main2-84p1.onrender.com";
 
 //utils/apiPath.js
 export const API_PATHS = {
